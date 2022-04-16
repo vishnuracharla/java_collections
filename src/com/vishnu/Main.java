@@ -6,5 +6,16 @@ public class Main {
 	// write your code here
 
         System.out.println("hii");
+
+      String studentsName[] = new String[31];
+
+        studentsName[0] = "Rakesh";
+
+        studentsName[1] = "Harish";
+
+        studentsName[29] = "Vishnu";
+
+        System.out.println(studentsName[29]);
+
     }
 }
