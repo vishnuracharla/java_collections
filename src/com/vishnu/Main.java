@@ -17,6 +17,11 @@ public class Main {
 
         System.out.println(studentsName[29]);
 
+
+        System.out.println(studentsName[29]);
+
+        System.out.println(studentsName[0]); System.out.println(studentsName[29]);
+
         System.out.println(studentsName[0]);
 
     }
