@@ -11,7 +11,7 @@ public class Main {
 
         studentsName[0] = "Rakesh";
 
-        studentsName[1] = "Harish";
+        
 
         studentsName[29] = "Vishnu";
 
