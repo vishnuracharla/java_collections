@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("hii");
 
-      String studentsName[] = new String[31];
+        String studentsName[] = new String[31];
 
         studentsName[0] = "Rakesh";
 
@@ -16,6 +16,8 @@ public class Main {
         studentsName[29] = "Vishnu";
 
         System.out.println(studentsName[29]);
+
+        System.out.println(studentsName[0]);
 
     }
 }
